@@ -6,4 +6,5 @@ function buttonFunction(){
     MyDiv.style.fontFamily="'Dosis', sans-serif"
     MyDiv.style.fontSize="40px";
     MyDiv.style.textAlign="center";
+    
 }
